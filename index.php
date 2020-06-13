@@ -4,6 +4,9 @@
 <?php
 echo' 
 <html>
+<center><input type="text" placeholder="username">
+<input type="password" placeholder="password">
+<input type="submit" value="Login"></center>
 </html>
 ';
 echo'
